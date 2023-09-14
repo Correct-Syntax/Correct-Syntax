@@ -1,5 +1,3 @@
-Hi, I'm Noah.
+Hi, I'm Noah, a web designer/developer, photographer, and artist.
 
-I'm a designer, developer, photographer, and artist. I currently work as a freelance designer and developer.
-
-Feel free to say hi via hi@noahrahm.com
+I am currently open to new projects and work opportunities. Feel free to say hi via [hi@noahrahm.com](mailto:hi@noahrahm.com)
